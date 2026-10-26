@@ -13,7 +13,7 @@ Jogo de xadrez com tabuleiro e peças desenhados em pygame.
 - **Regras implementadas:** movimento das peças, roque, peão com avanço de 2 casas, en passant ...
 - **Executar:** `python Chess/main.py`
 
-![Xadrez](docs/xadrez.png)
+![Xadrez](docs/Chess.PNG)
 
 ### 🧟 Roguelike Survivor
 Jogo no estilo Vampire Survivors: sobreviva a ondas de inimigos, evolua e fortaleça seu personagem.
@@ -29,7 +29,7 @@ Jogo no estilo Vampire Survivors: sobreviva a ondas de inimigos, evolua e fortal
 - **Destaques:** sistema de XP e raridade de upgrades, ondas infinitas, loja
 - **Executar:** `python RoguelikeSurvivor/main.py`
 
-![Survivor](docs/survivor.png)
+![Survivor](docs/RoguelikeSurvivor.PNG)
 
 ### 🔵 Pinball
 Mesa de pinball com física de bola, flippers e pontuação.
@@ -38,4 +38,4 @@ Mesa de pinball com física de bola, flippers e pontuação.
 - **Destaques:** colisão da bola com bumpers e paredes, placar de pontuação, vidas e histórico
 - **Executar:** `python Pinball/main.py`
 
-![Pinball](docs/pinball.png)
+![Pinball](docs/Pinball.PNG)
